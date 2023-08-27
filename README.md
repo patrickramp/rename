@@ -1,7 +1,7 @@
 # Rename Media
 
-Simple Rust program to clean up file names.
+Simple little Rust program to clean up season file names.
 
-Written in rust this programs trims all files in the current directory containing "S01E01" or similar. It trims 
-everything after the season / episode indicator. 
+Written in rust this programs trims all files in the current directory containing "S01E01" or similar in the name. 
+It trims everything after the season / episode indicator and preserves the file type. 
 
