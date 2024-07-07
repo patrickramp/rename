@@ -1,0 +1,8 @@
+## Ignore list
+
+## Files
+Cargo.lock
+
+## Directories
+target/
+

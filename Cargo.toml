@@ -1,9 +1,11 @@
 [package]
 name = "rename"
-version = "1.71.0"
+version = "2.0.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+description = "Clean all episode names in current directory"
+repository = "https://github.com/patrickramp/rename"
+categories = ["command-line-utilities"]
 
 [dependencies]
-regex = "1.9.1"
+regex = "1.10.5"
